@@ -20,7 +20,7 @@ while True:
         print("""
         Cashapp~> @ajsarb
         Email~> sarbsin98@gmail.com
-        Discord~> Log4s#2285 | Instagram~> dev.sarb
+        Instagram~> dev.sarb
         """)
              
 
