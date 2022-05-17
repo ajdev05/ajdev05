@@ -15,14 +15,12 @@ skillset = ["Python","C","C++","C#","HTML","CSS","Node.js","PHP","SQL","SQLite3"
 
 othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
 while True:
-    print("support","Email","othr")
     ur = input("Select an option ~> ")
-    if ur == 'support':
-        print("Cashapp~> @ajsarb")
-    elif ur == 'Email':
-        print("Email~> sarbsin98@gmail.com")
-    else:
-        if ur == 'othr':
-            print("Discord~> Log4s#2285 | Instagram~> dev.sarb")
+    if ur == 'help':
+        print("""
+        Cashapp~> @ajsarb
+        Email~> sarbsin98@gmail.com
+        Discord~> Log4s#2285 | Instagram~> dev.sarb
+        """)
              
 
