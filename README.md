@@ -14,7 +14,6 @@ currentlystudying = "Algorithms in CompSci"
 skillset = ["Python","C","C++","C#","HTML","CSS","Node.js","PHP","SQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
 
 othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
-
 while True:
     print("support","Email","othr")
     ur = input("Select an option ~> ")
