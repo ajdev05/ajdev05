@@ -12,7 +12,9 @@ strenght = "I can learn anything if I find it interesting, and i want to keep on
 
 currentlystudying = "Algorithms in CompSci"
 
-skillset = ["Python","C","C++","C#","HTML","CSS","Node.js","PHP","SQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
+skillset = ["Python","C","C++","HTML","CSS","Node.js","PHP","SQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
+
+frameworks = ["Flask"]
 
 othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
 while True:
