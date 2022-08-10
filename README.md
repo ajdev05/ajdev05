@@ -12,7 +12,7 @@ strenght = "I can learn anything if I find it interesting, and i want to keep on
 
 currentlystudying = "Algorithms in CompSci"
 
-skillset = ["Python","C","C++","HTML","CSS","Node.js","PHP","SQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
+skillset = ["Python","C","C++","HTML","CSS","Node.js","PHP","mySQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
 
 frameworks = ["Flask"]
 
