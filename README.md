@@ -18,8 +18,8 @@ frameworks = ["Flask"]
 
 othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
 
-Cashapp~> @ajsarb
 Email~> aj@sanreik.net
+
 Instagram~> dev.sarb
 
 
