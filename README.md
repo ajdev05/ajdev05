@@ -17,13 +17,9 @@ skillset = ["Python","C","C++","HTML","CSS","Node.js","PHP","mySQL","SQLite3","M
 frameworks = ["Flask"]
 
 othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
-while True:
-    ur = input("Select an option ~> ")
-    if ur == 'help':
-        print("""
-        Cashapp~> @ajsarb
-        Email~> sarbsin98@gmail.com
-        Instagram~> dev.sarb
-        """)
-             
+
+Cashapp~> @ajsarb
+Email~> aj@sanreik.net
+Instagram~> dev.sarb
+
 
