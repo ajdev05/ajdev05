@@ -1,5 +1,5 @@
 ## Hello World ##
-## Website [https://ajdev-05.000webhostapp.com/]
+## Website [https://sanreik.net]
 
 name = "My name is AJ, I'm 17 Years Old."
 
