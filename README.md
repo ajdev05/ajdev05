@@ -1,10 +1,10 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajdev05)
 
-Hello! My name is AJ. I am 17 years old, I like to Program and built new things to automate or to make things easier to do. 
+## Hello! My name is AJ. I am 17 years old, I like to Program and built new things to automate or to make things easier to do. 
 
 
-#### :computer: Programming languages and tools: 
+#### :computer: Programming languages and frameworks: 
 
 <p>
         <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&hide_border=false&theme=radical"/>
