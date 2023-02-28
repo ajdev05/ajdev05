@@ -1,24 +1,3 @@
-## Hello World ##
-## Website [https://sanreik.net]
 
-name = "My name is AJ, I'm 17 Years Old."
 
-whenimbored = "I love to Code and Problem Solve."
-
-bg = "I Started to study and learn Programming when I was 12."
-
-strenght = "I can learn anything if I find it interesting, and i want to keep on learing more."
-
-currentlystudying = "Algorithms in CompSci"
-
-skillset = ["Python","C","C++","HTML","CSS","Node.js","PHP","mySQL","SQLite3","MongoDB","Java","Golang","Rust","Ruby On Rails",]
-
-frameworks = ["Flask"]
-
-othr_skills = ["Cyber Security","Network Security","Offensive Security","Network Monitoring","AWS Cloud","Finance","Stock Market","Crypto"]
-
-Email~> aj@sanreik.net
-
-Instagram~> dev.sarb
-
-![Aj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&theme=radical)
+![ajdev05's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&theme=radical)
