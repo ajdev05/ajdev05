@@ -4,7 +4,7 @@
  Hello! My name is AJ. I am 17 years old, I like to Program and learn new things.
 
 
-<h2> :computer: Programming languages: </h2> 
+<h2> :computer: Programming languages </h2> 
 
 <p>
         <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&hide_border=false&theme=radical"/>
@@ -43,6 +43,14 @@
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
+
+
+<br />
+
+<h2> ⚙️  Operating System  </h2> 
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
 </p>
 
 
