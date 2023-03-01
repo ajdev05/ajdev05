@@ -4,7 +4,7 @@
  Hello! My name is AJ. I am 17 years old, I like to Program and learn new things.
 
 
-#### :computer: Programming languages and frameworks: 
+#### :computer: Programming languages: 
 
 <p>
         <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&hide_border=false&theme=radical"/>
@@ -24,6 +24,7 @@
 
 
 <br />
+<h2> Frameworks </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
