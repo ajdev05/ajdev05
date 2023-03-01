@@ -23,7 +23,7 @@
 
 
 <br />
-<h2> 🧰 Frameworks </h2>
+<h2> 🧰  Frameworks </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
@@ -39,7 +39,7 @@
 
 <br />
 
-<h2> ☁️: Cloud </h2> 
+<h2> ☁️  Cloud </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
