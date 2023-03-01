@@ -47,7 +47,7 @@
 
 <br />
 
-<h2> ⚙️  Operating System  </h2> 
+<h2> ⚙️  Operating Systems  </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
