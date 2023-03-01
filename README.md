@@ -9,11 +9,11 @@
 <p>
         <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&hide_border=false&theme=radical"/>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
