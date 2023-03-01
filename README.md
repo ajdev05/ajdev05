@@ -23,7 +23,7 @@
 
 
 <br />
- 
+ <br />
  
 <h2> 🧰  Frameworks </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
@@ -35,7 +35,7 @@
  
  
 <br />
-
+<br />
 
 <h2> 🪛 Tools </h2> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
@@ -45,7 +45,7 @@
 
 
 <br />
-
+<br />
 
 
 <h2> ☁️  Cloud </h2> 
@@ -55,7 +55,7 @@
 
 
 <br />
-
+<br />
 <h2> ⚙️  Operating Systems  </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
