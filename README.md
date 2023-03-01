@@ -4,7 +4,7 @@
  Hello! My name is AJ. I am 17 years old, I like to Program and learn new things.
 
 
-#### :computer: Programming languages: 
+<h2> :computer: Programming languages: </h2> 
 
 <p>
         <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajdev05&show_icons=true&hide_border=false&theme=radical"/>
@@ -17,20 +17,22 @@
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 
 
 
 <br />
-<h2> Frameworks </h2>
+<h2> 🧰: Frameworks </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></code>
  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"></code>
 <br />
+
+<h2> 🪛: Tools </h2> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
