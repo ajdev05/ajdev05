@@ -21,7 +21,7 @@
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code> 
-
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code> 
 
 <br />
  <br />
