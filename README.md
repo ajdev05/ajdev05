@@ -13,7 +13,6 @@
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"></code> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></code>
- <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
