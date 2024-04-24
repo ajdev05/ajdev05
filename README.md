@@ -1,7 +1,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajdev05)
 
-Hello, I'm AJ. I like to do computer programming and offensive and defensive Security, I also like to break down Malware, and Trade Securities. I am currently pursuing a degree in Computer Science maybe a minor in Finance. 
+Hello, I'm AJ. I like to do computer programming and offensive and defensive Security, I also like to break down Malware, and Trade Securities. I am currently pursuing a degree in Computer Science and maybe a minor in Finance. 
 
 <h2> :computer: Programming languages </h2> 
 
