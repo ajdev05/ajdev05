@@ -22,7 +22,7 @@ Hello, I'm AJ. I like to do computer programming, network security, I also like 
 <br />
  <br />
  
-<h2> 🧰  Frameworks </h2>
+<h2> Databases </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></code>
@@ -32,28 +32,28 @@ Hello, I'm AJ. I like to do computer programming, network security, I also like 
 <br />
 <br />
 
-<h2> 🪛 Tools </h2> 
+<h2> Web Technologies </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
-
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg"></code>
 
 
 <br />
 <br />
 
 
-<h2> ☁️  Cloud </h2> 
+<h2> Cloud </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></code>
-<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
+<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code> 
 
 
 <br />
 <br />
-<h2> ⚙️  Operating Systems  </h2> 
+<h2> Operating Systems  </h2> 
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
