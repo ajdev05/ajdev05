@@ -1,6 +1,4 @@
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajdev05)
-
 Hello, I'm AJ. I like to do computer programming, network security, I also like to break down malware, and trade securities. I am currently pursuing a degree in Computer Science with a minor in Finance. 
   
 <h2> :computer: Programming languages </h2> 
