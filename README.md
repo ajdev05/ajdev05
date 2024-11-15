@@ -1,5 +1,4 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajdev05)
-![AxiosAlpha Logo - Watermark (Small) - 300x300](https://github.com/user-attachments/assets/a1cc8e83-6339-44e1-958f-66a13dd829c4)
 
 Hello, I'm AJ. I like to do computer programming, network security, I also like to break down malware, and trade securities. I am currently pursuing a degree in Computer Science with a minor in Finance. 
   
