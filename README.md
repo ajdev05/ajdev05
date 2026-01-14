@@ -23,10 +23,7 @@ Hello, I'm AJ. I like to do computer programming, network security, I also like 
  
 <h2> Databases </h2>
 <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></code>
-<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
- <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></code>
- <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"></code>
- 
+ <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></code> 
  
 <br />
 <br />
